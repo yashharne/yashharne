@@ -1,4 +1,6 @@
 ### Hi there 👋
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashharne&label=Profile%20views&color=blueviolet&style=flat" alt="yashharne" /> </p>
 
 <!--
 **yashharne/yashharne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
