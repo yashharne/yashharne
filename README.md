@@ -1,8 +1,8 @@
-<h1 align="left">Hello 👋, I'm Yash Harne</h1>
+<h1 align="left">Hello 👋, I'm Yash Harne!</h1>
 <h3 align="left">A passionate full-stack developer from India.</h3>
 </br>
 
-- 🔭 I’m currently working on my [Portfolio](https://yashharne-portfolio.vercel.app/). 
+- 🔭 I’m currently working on my <a href="https://yashharne-portfolio.vercel.app/" target="_blank">Portfolio</a>.
 <!-- 🌱 I’m currently learning ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 - 💬 Ask me about anything related to MERN stack and related technologies.
