@@ -15,3 +15,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashharne&label=Profile%20views&color=blueviolet&style=flat" alt="yashharne" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+
+<div align="left">
+  <a href="https://www.instagram.com/yashhharne/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/infiniite_void" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yash-harne/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/yashharne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="30" alt="linktree logo"  />
+  </a>
+</div>
+
+
+
